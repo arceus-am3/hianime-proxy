@@ -1,4 +1,4 @@
-# HiAnime Proxy - Cloudflare Worker
+# hianime-api proxy - cloudflare worker
 
 A high-performance HLS proxy built with Cloudflare Workers. This proxy handles CORS, manifest rewriting, and bypasses port restrictions using raw TCP/TLS sockets.
 
@@ -59,4 +59,4 @@ npm run dev
 ## Author
 
 **RY4N**
-* GitHub: [@ryanwtf88](https://github.com/ryanwtf88)
+* GitHub: [RY4N](https://github.com/ryanwtf88)
