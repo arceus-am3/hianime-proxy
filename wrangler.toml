@@ -1,7 +1,6 @@
 name = "hianime-api-proxy"
 main = "worker.js"
 compatibility_date = "2024-03-01"
-account_id = "ce312668b696e7b015403a1bf54dc475"
 
 [observability]
 enabled = true
